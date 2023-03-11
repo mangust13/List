@@ -1,0 +1,30 @@
+
+Sorted list:
+|Autor| |Name| |Year| |Pages| |Price|
+|Olena Ryzhko             | |"The King of darknet"    | |2018| |320 | |260 |
+|Natalia Shchyrba         | |"Times"                  | |2014| |230 | |220 |
+|Dan Brown                | |"The Da Vinci Code"      | |2003| |480 | |150 |
+|J. Rowling               | |"Harry Potter"           | |1999| |300 | |300 |
+|Andrzej Sapkowski        | |"The Witcher"            | |1993| |300 | |190 |
+|Vsevolod Nestayko        | |"Magic glasses"          | |1981| |208 | |200 |
+|J. Tolkien               | |"The Lord of the Rings"  | |1967| |450 | |210 |
+|William Golding          | |"Lord of the Flies"      | |1954| |254 | |180 |
+|Nechuy-Levytskyi         | |"Kaidash family"         | |1879| |151 | |120 |
+|Conan Doyle              | |"Sherlock Holmes"        | |1854| |250 | |480 |
+
+Average amount of pages is: 294
+
+|Autor| |Name| |Year| |Pages| |Price|
+|Olena Ryzhko             | |"The King of darknet"    | |2018| |320 | |260 |
+|Dan Brown                | |"The Da Vinci Code"      | |2003| |480 | |150 |
+|J. Rowling               | |"Harry Potter"           | |1999| |300 | |300 |
+|Andrzej Sapkowski        | |"The Witcher"            | |1993| |300 | |190 |
+|J. Tolkien               | |"The Lord of the Rings"  | |1967| |450 | |210 |
+
+|Autor| |Name| |Year| |Pages| |Price|
+|Olena Ryzhko             | |"The King of darknet"    | |2018| |320 | |260 |
+|sd                       | |sd                       | |2005| |4   | |6   |
+|Dan Brown                | |"The Da Vinci Code"      | |2003| |480 | |150 |
+|J. Rowling               | |"Harry Potter"           | |1999| |300 | |300 |
+|Andrzej Sapkowski        | |"The Witcher"            | |1993| |300 | |190 |
+|J. Tolkien               | |"The Lord of the Rings"  | |1967| |450 | |210 |

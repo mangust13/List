@@ -1,0 +1,10 @@
+Dan Brown,"The Da Vinci Code",        2003,  480, 150
+J. Tolkien,"The Lord of the Rings",   1967,  450, 210
+J. Rowling,"Harry Potter",            1999,  300, 300
+Conan Doyle,"Sherlock Holmes",        1854,  250, 480
+Andrzej Sapkowski,"The Witcher",      1993,  300, 190
+William Golding,"Lord of the Flies",  1954,  254, 180
+Vsevolod Nestayko,"Magic glasses",    1981,  208, 200
+Olena Ryzhko,"The King of darknet",   2018,  320, 260
+Natalia Shchyrba,"Times",             2014,  230, 220
+Nechuy-Levytskyi,"Kaidash family",    1879,  151, 120
